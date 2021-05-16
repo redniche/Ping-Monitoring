@@ -64,7 +64,6 @@
             // 
             // textBoxS
             // 
-            this.textBoxS.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower;
             resources.ApplyResources(this.textBoxS, "textBoxS");
             this.textBoxS.Name = "textBoxS";
             // 
